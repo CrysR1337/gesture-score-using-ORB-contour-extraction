@@ -6,6 +6,8 @@ The whole project is based on opencv version 4.1.1. Version 4.1.1 has quite a lo
 
 Eg. The project refers to different blogs and research.
 
+This is a individual C++ part of https://github.com/King-LeBron-James/Microsoft-Project. This project is contributed by King-LeBron-James & farthjun also.
+
 ## Basic theory
 
 1. Firstly, to contour extraction, we use GaussianBlur (function) to smooth pixels and then Canny (function) to detect edge. At last, according to findContours and drawContours (function) to get and save the contours information. The result is shown below.
