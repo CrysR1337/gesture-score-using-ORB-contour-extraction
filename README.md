@@ -1,4 +1,4 @@
-#    The extraction of outline based on C++
+#    Gesture scoring using ORB & contour extraction on C++
 
 ------
 
